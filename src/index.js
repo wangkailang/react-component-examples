@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import TagsInputExample from "./TagsInput";
-import TagsInputEmailExample from "./TagsInputEmail";
+import TagsInputExample from "./TagsInput/TagsInput";
+import TagsInputEmailExample from "./TagsInput/TagsInputEmail";
 
 import "./styles.css";
 
